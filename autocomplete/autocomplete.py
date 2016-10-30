@@ -15,6 +15,7 @@ NEARBY_KEYS = {
     'f': 'rtgvcd',
     'g': 'tyhbvf',
     'h': 'yujnbg',
+     'i':'ujklo',
     'j': 'uikmnh',
     'k': 'iolmj',
     'l': 'opk',
